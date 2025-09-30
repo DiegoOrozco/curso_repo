@@ -1,0 +1,5 @@
+# ignorar los archiovos de pyton compulados 
+*.pyc
+
+# ignorar un archivo en especifico
+*.txt
